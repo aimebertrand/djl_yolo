@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/aime_bertrand/Documents/djl_yolo/target/scala-2.13/djl_yolo_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aime_bertrand/Documents/djl_yolo/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	synset.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aime_bertrand/Documents/djl_yolo/target/scala-2.13/classes/synset.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	best.torchscript.pt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aime_bertrand/Documents/djl_yolo/target/scala-2.13/classes/best.torchscript.pt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aime_bertrand/Documents/djl_yolo/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	yolov5s.torchscript.pt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aime_bertrand/Documents/djl_yolo/target/scala-2.13/classes/yolov5s.torchscript.pt[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
