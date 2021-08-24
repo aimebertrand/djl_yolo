@@ -1,2 +1,6 @@
-[debug] downloaded https://repo1.maven.org/maven2/ai/djl/pytorch/pytorch-native-cpu/1.8.1/pytorch-native-cpu-1.8.1-sources.jar
-[debug] downloaded https://repo1.maven.org/maven2/ai/djl/pytorch/pytorch-native-cpu/1.8.1/pytorch-native-cpu-1.8.1-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/ai/djl/mxnet/mxnet-native-auto/1.8.0/mxnet-native-auto-1.8.0-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/ai/djl/mxnet/mxnet-model-zoo/0.12.0/mxnet-model-zoo-0.12.0-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/ai/djl/mxnet/mxnet-native-auto/1.8.0/mxnet-native-auto-1.8.0-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/ai/djl/mxnet/mxnet-model-zoo/0.12.0/mxnet-model-zoo-0.12.0-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/ai/djl/mxnet/mxnet-engine/0.12.0/mxnet-engine-0.12.0-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/ai/djl/mxnet/mxnet-engine/0.12.0/mxnet-engine-0.12.0-javadoc.jar
